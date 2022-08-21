@@ -1,6 +1,6 @@
-<h1 align="center">WinForms System</h1>
+<h1 align="center">WebForms System</h1>
 
-<p align="center">CRUD feito em Windows Forms, com .NET Framework 4.7.2, como parte do exercício da aula 1 do curso Coding Craft.</p>
+<p align="center">CRUD feito em ASP.NET WebForms, com .NET Framework 4.7.2, como parte do exercício da aula 1 do curso Coding Craft.</p>
 
 Pré-requisitos
 ==============
